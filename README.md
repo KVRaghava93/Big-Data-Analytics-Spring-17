@@ -14,3 +14,6 @@ https://github.com/KVRaghava93/Big-Data-Analytics-Spring-17/wiki/Lab-4-Report
 
 ###Lab 5 Report:
 https://github.com/KVRaghava93/Big-Data-Analytics-Spring-17/wiki/Lab-5-Report
+
+##Lab 6 Report:
+https://github.com/KVRaghava93/Big-Data-Analytics-Spring-17/wiki/Lab-6-Report
