@@ -27,3 +27,6 @@ https://github.com/KVRaghava93/Big-Data-Analytics-Spring-17/wiki/Lab-9-Report
 
 ### Lab 10 Report:
 https://github.com/KVRaghava93/Big-Data-Analytics-Spring-17/wiki/Lab-10-Report
+
+### Lab 11 Report:
+https://github.com/KVRaghava93/Big-Data-Analytics-Spring-17/wiki/Lab-11-Report
